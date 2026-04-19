@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krupanidhi-ropes/static/css/main.a2a46267.css",
+    "main.js": "/krupanidhi-ropes/static/js/main.e2e19dff.js",
+    "index.html": "/krupanidhi-ropes/index.html",
+    "main.a2a46267.css.map": "/krupanidhi-ropes/static/css/main.a2a46267.css.map",
+    "main.e2e19dff.js.map": "/krupanidhi-ropes/static/js/main.e2e19dff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a46267.css",
+    "static/js/main.e2e19dff.js"
+  ]
+}
